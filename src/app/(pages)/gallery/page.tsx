@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from './Gallery.module.css';
+import styles from './gallery.module.css';
 import Head from 'next/head';
 import Image from 'next/image';
 
