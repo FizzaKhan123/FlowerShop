@@ -13,7 +13,7 @@ const Contact: React.FC = () => {
   return (
     <>
       <Head>
-        <title>Flower Shop - main</title>
+        <title>Flower Shop - contact1</title>
         <meta name="description" content="Get in touch with our flower shop" />
       </Head>
       
