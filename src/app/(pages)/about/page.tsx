@@ -20,7 +20,7 @@ const AboutPage = () => {
               passion project quickly grew into a beloved local flower shop.
             </p>
             <p>
-              Today, we're proud to serve our community with the same dedication 
+              Today, we are proud to serve our community with the same dedication 
               to quality and personal service that we started with.
             </p>
           </div>

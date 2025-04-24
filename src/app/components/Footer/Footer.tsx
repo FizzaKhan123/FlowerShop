@@ -8,7 +8,7 @@ const Footer = () => {
         <div className={styles.footerSection}>
           <h3 className={styles.footerTitle}>Petal Paradise</h3>
           <p className={styles.footerText}>
-            Bringing nature's beauty to your doorstep with our exquisite floral arrangements.
+            Bringing nature beauty to your doorstep with our exquisite floral arrangements.
           </p>
         </div>
 
